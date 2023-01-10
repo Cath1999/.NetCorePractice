@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oVY0DeHDsKM88NMhENgRBBB7DfMtJW13q6UtQtmM7WJA2vPgjrSZS1YQiUvHgp0G0btAMFA1+gm9mFOGsAj4qg==",
+  "dgSpecHash": "dFlPR/nYnCCkdRMhMkr2ycf+FGgPwjGQyuSxF+4wIcGL5MSHGnBxMbgF1fAYDT5gIdgwDqU31AdK4rBbEjjLOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\APICore\\APICore\\APICore.csproj",
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Escritorio\\.NetCorePractice\\APICore\\APICore\\APICore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
